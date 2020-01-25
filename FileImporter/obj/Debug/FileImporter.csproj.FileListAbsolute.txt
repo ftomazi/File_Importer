@@ -1,0 +1,7 @@
+C:\Fausto\Projetos\FileImporter\FileImporter\bin\Debug\FileImporter.exe.config
+C:\Fausto\Projetos\FileImporter\FileImporter\bin\Debug\FileImporter.exe
+C:\Fausto\Projetos\FileImporter\FileImporter\bin\Debug\FileImporter.pdb
+C:\Fausto\Projetos\FileImporter\FileImporter\obj\Debug\FileImporter.csprojAssemblyReference.cache
+C:\Fausto\Projetos\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.CoreCompileInputs.cache
+C:\Fausto\Projetos\FileImporter\FileImporter\obj\Debug\FileImporter.exe
+C:\Fausto\Projetos\FileImporter\FileImporter\obj\Debug\FileImporter.pdb

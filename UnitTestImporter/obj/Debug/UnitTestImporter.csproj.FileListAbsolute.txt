@@ -1,0 +1,17 @@
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\UnitTestImporter.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\UnitTestImporter.pdb
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\FileImporter.exe
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\FileImporter.pdb
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\FileImporter.exe.config
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\obj\Debug\UnitTestImporter.csprojAssemblyReference.cache
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\obj\Debug\UnitTestImporter.csproj.CoreCompileInputs.cache
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\obj\Debug\UnitTestImporter.csproj.CopyComplete
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\obj\Debug\UnitTestImporter.dll
+C:\Fausto\Projetos\FileImporter\UnitTestImporter\obj\Debug\UnitTestImporter.pdb
